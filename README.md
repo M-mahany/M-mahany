@@ -30,21 +30,6 @@ I'm a passionate software engineer with a strong background in building web appl
 - <img src="https://img.icons8.com/color/24/000000/postgresql.png"/> PostgreSQL
 - <img src="https://img.icons8.com/color/24/000000/amazon-web-services.png"/> AWS
 
----
-
-## Projects
-
-### Project 1: [Project Name 1](#)
-A brief description of the project and its features.
-
-### Project 2: [Project Name 2](#)
-A brief description of the project and its features.
-
-### Project 3: [Project Name 3](#)
-A brief description of the project and its features.
-
----
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-mahany&show_icons=true&theme=radical)
@@ -53,17 +38,23 @@ A brief description of the project and its features.
 
 ## 📈 Contributions
 
-![Your Contributions](https://img.shields.io/github/last-commit/M-mahany/M-mahany?label=Last%20Commit&style=flat-square)
-![Total Contributions](https://img.shields.io/github/commit-activity/w/M-mahany/M-mahany?label=Total%20Contributions&style=flat-square)
-![Longest Streak](https://img.shields.io/github/commit-activity/y/M-mahany/M-mahany?label=Longest%20Streak&style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/M-mahany/M-mahany?label=Last%20Commit&style=flat-square&color=blueviolet)
+![Total Contributions](https://img.shields.io/github/commit-activity/w/M-mahany/M-mahany?label=Total%20Contributions&style=flat-square&color=blueviolet)
+![Longest Streak](https://img.shields.io/github/commit-activity/y/M-mahany/M-mahany?label=Longest%20Streak&style=flat-square&color=blueviolet)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-mahany&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Get in Touch
 
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/mena-mahany-09024719a/](#)
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/mena-mahany-09024719a/](https://www.linkedin.com/in/mena-mahany-09024719a/)
 - <img src="https://img.icons8.com/color/24/000000/email.png"/> [mahanymena@gmail.com](mailto:mahanymena@gmail.com)
-- Portfolio: [https://menamahany.tech/](#)
+- Portfolio: [https://menamahany.tech/](https://menamahany.tech/)
 
 ---
 
