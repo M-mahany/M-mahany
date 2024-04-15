@@ -53,13 +53,15 @@ A brief description of the project and its features.
 
 ## 📈 Contributions
 
-![Your Contributions](https://img.shields.io/github/last-commit/M-mahany/M-mahany?label=Contributions&style=flat-square)
+![Your Contributions](https://img.shields.io/github/last-commit/M-mahany/M-mahany?label=Last%20Commit&style=flat-square)
+![Total Contributions](https://img.shields.io/github/commit-activity/w/M-mahany/M-mahany?label=Total%20Contributions&style=flat-square)
+![Longest Streak](https://img.shields.io/github/commit-activity/y/M-mahany/M-mahany?label=Longest%20Streak&style=flat-square)
 
 ---
 
 ## 📫 Get in Touch
 
-- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/mena-mahany-09024719a](#)
+- <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/mena-mahany-09024719a/](#)
 - <img src="https://img.icons8.com/color/24/000000/email.png"/> [mahanymena@gmail.com](mailto:mahanymena@gmail.com)
 - Portfolio: [https://menamahany.tech/](#)
 
