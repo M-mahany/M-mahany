@@ -38,9 +38,7 @@ I'm a passionate software engineer with a strong background in building web appl
 
 ## 📈 Contributions
 
-![Last Commit](https://img.shields.io/github/last-commit/M-mahany/M-mahany?label=Last%20Commit&style=flat-square&color=blueviolet)
-![Total Contributions](https://img.shields.io/github/commit-activity/w/M-mahany/M-mahany?label=Total%20Contributions&style=flat-square&color=blueviolet)
-![Longest Streak](https://img.shields.io/github/commit-activity/y/M-mahany/M-mahany?label=Longest%20Streak&style=flat-square&color=blueviolet)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M-mahany" alt="M-mahany" style="max-width: 100%;">
 
 ---
 
