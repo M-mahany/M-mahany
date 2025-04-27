@@ -27,7 +27,7 @@ I'm a passionate software engineer with a strong background in building web appl
 
 - <img src="https://img.icons8.com/color/24/000000/linkedin.png"/> [https://www.linkedin.com/in/mena-mahany-09024719a/](https://www.linkedin.com/in/mena-mahany-09024719a/)
 - <img src="https://img.icons8.com/color/24/000000/email.png"/> [mahanymena@gmail.com](mailto:mahanymena@gmail.com)
-- Portfolio: [https://menamahany.tech/](https://menamahany.tech/)
+- Portfolio: [https://techrafter.com/](https://techrafter.com/)
 
 ---
 
